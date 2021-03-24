@@ -1,0 +1,15 @@
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\JWTExample.Core\bin\Debug\net5.0\JWTExample.Core.deps.json
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\JWTExample.Core\bin\Debug\net5.0\JWTExample.Core.dll
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\JWTExample.Core\bin\Debug\net5.0\ref\JWTExample.Core.dll
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\JWTExample.Core\bin\Debug\net5.0\JWTExample.Core.pdb
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\JWTExample.Core\bin\Debug\net5.0\SharedLibrary.dll
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\JWTExample.Core\bin\Debug\net5.0\SharedLibrary.pdb
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\JWTExample.Core\obj\Debug\net5.0\JWTExample.Core.csprojAssemblyReference.cache
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\JWTExample.Core\obj\Debug\net5.0\JWTExample.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\JWTExample.Core\obj\Debug\net5.0\JWTExample.Core.AssemblyInfoInputs.cache
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\JWTExample.Core\obj\Debug\net5.0\JWTExample.Core.AssemblyInfo.cs
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\JWTExample.Core\obj\Debug\net5.0\JWTExample.Core.csproj.CoreCompileInputs.cache
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\JWTExample.Core\obj\Debug\net5.0\JWTExample.Core.csproj.CopyComplete
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\JWTExample.Core\obj\Debug\net5.0\JWTExample.Core.dll
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\JWTExample.Core\obj\Debug\net5.0\ref\JWTExample.Core.dll
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\JWTExample.Core\obj\Debug\net5.0\JWTExample.Core.pdb

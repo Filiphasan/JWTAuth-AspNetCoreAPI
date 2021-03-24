@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vLcGv+tFwTvXIBS3TMnS0C/Qk0vV1ajCSa7PjXYt2vuf4VJTa61yJaDuvqy14C+S+fBqnS2h0G5wES/5Y02Mgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hasae\\Desktop\\WebApplication\\Asp.NetCore\\Projects\\JWTExample\\JWTExample.API\\JWTExample.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hasae\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\hasae\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hasae\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\hasae\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\hasae\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\hasae\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

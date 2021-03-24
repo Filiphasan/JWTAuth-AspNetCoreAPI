@@ -1,0 +1,12 @@
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\SharedLibrary\bin\Debug\net5.0\SharedLibrary.deps.json
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\SharedLibrary\bin\Debug\net5.0\SharedLibrary.dll
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\SharedLibrary\bin\Debug\net5.0\ref\SharedLibrary.dll
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\SharedLibrary\bin\Debug\net5.0\SharedLibrary.pdb
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\SharedLibrary\obj\Debug\net5.0\SharedLibrary.csprojAssemblyReference.cache
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\SharedLibrary\obj\Debug\net5.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\SharedLibrary\obj\Debug\net5.0\SharedLibrary.AssemblyInfoInputs.cache
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\SharedLibrary\obj\Debug\net5.0\SharedLibrary.AssemblyInfo.cs
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\SharedLibrary\obj\Debug\net5.0\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\SharedLibrary\obj\Debug\net5.0\SharedLibrary.dll
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\SharedLibrary\obj\Debug\net5.0\ref\SharedLibrary.dll
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\SharedLibrary\obj\Debug\net5.0\SharedLibrary.pdb
