@@ -1,6 +1,7 @@
 ﻿using JWTExample.Core.Repository;
 using JWTExample.Core.Services;
 using JWTExample.Core.UnitOfWork;
+using Microsoft.EntityFrameworkCore;
 using SharedLibrary.Dtos;
 using System;
 using System.Collections.Generic;
@@ -74,7 +75,7 @@ namespace JWTExample.Services.Services
         {
             var list = _genericRepository.Where(predicate);
 
-            return Response<IEnumerable<TDto>>.Success(ObjectMapper.Mapper.Map<IEnumerable<TDto>>(list.ToList()), 200);
+            return Response<IEnumerable<TDto>>.Success(ObjectMapper.Mapper.Map<IEnumerable<TDto>>(await list.ToListAsync()), 200);
         }
     }
 }
