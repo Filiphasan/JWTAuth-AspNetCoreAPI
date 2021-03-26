@@ -19,6 +19,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using SharedLibrary.Configurations;
+using SharedLibrary.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -75,7 +76,7 @@ namespace JWTExample.API
                     ClockSkew=TimeSpan.Zero
                 };
             });
-            services.Configure<CustomTokenOptions>(Configuration.GetSection("TokenOption"));
+            services.Configure<CustomTokenOptions>(Configuration.GetSection("TokenOptions"));
             services.Configure<List<Client>>(Configuration.GetSection("Clients"));
             services.AddControllers();
             services.AddSwaggerGen(c =>
@@ -97,6 +98,8 @@ namespace JWTExample.API
             app.UseHttpsRedirection();
 
             app.UseRouting();
+
+            app.UseAuthentication();
 
             app.UseAuthorization();
 
