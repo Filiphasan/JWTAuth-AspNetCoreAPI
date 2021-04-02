@@ -73,3 +73,6 @@ C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\JWTExample
 C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\JWTExample.API\bin\Debug\net5.0\SharedLibrary.pdb
 C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\JWTExample.API\bin\Debug\net5.0\Humanizer.dll
 C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\JWTExample.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\JWTExample.API\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\JWTExample.API\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Projects\JWTExample\JWTExample.API\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
