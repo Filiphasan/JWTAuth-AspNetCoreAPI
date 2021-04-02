@@ -100,7 +100,10 @@ namespace JWTExample.API
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "JWTExample.API v1"));
             }
-
+            else
+            {
+                app.UseCustomException();
+            }
             app.UseHttpsRedirection();
 
             app.UseRouting();
